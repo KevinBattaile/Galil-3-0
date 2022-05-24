@@ -1,0 +1,11 @@
+SUPPORT=/usr/lib/epics
+EPICS_BASE=/usr/lib/epics
+AUTOSAVE=/usr/lib/epics
+SNCSEQ=/usr/lib/epics
+SSCAN=/usr/lib/epics
+CALC=/usr/lib/epics
+ASYN=/usr/lib/epics
+BUSY=/usr/lib/epics
+MOTOR=/usr/lib/epics
+GALIL=/epics/src/Galil-3-0/3-6
+#IPAC=/usr/lib/epics
